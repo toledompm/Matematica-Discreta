@@ -22,3 +22,5 @@ TABELAVERDADE.PY:
 	Premissas:O usuário não entrará com um valor superior a 20 pois demoraria muito para executar.
   
 # Segunda Prova:
+FECHO_REFLEXIVO.PY:
+	Recebe os elementos de um conjunto, e quais desses elementos se relacionam em uma endorrelação enviada pelo o usuário. A partir destes dados gera o fecho reflexivo dessa endorrelação
